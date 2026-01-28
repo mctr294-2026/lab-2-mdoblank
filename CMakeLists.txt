@@ -1,5 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
 
+set(CMAKE_TLS_VERIFY OFF)
+
 # Set the project name and version
 project(Roots VERSION 1.0)
 
