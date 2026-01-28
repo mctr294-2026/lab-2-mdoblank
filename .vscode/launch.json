@@ -42,5 +42,16 @@
             "environment": [],
             "externalConsole": false,
         },
+        {
+            "name": "Launch roots_demo (vsdbg (Windows))",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/Debug/roots_demo.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+        },
     ]
 }
